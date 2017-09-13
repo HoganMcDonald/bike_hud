@@ -43,3 +43,12 @@ will turn on the hud.
 
 This will be the actual hud that responds live to the user. There will be a full screen speedometer, strava start 
 button to begin tracking a ride, widget for listening to music possibly?
+
+## Future plans
+
+I would love to use this app as a jumping off point for a full smart bike setup. I think it would be a good platform 
+for a whole host of features to be controlled from the hud. Features could include:
+- arduino tracking wheel and pedal rotation to track actual cadence and speed
+- arduino powered lights (could set automatic based on ambient light)
+- arduino turn signals that could be controlled from smart phone.
+- etc.
